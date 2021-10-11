@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jzhf2006
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+jzhf2006/jzhf2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I am interestd in picture analysis
+I am currently learning deepImange software
+I want to get the model for picture analyzing
